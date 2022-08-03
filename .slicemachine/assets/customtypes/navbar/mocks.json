@@ -1,0 +1,30 @@
+{
+  "id": "89aefd40-a110-4732-8d1e-be54bf7f7563",
+  "uid": "aspernatur-unde-ratione",
+  "type": "navbar",
+  "data": {
+    "logo": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=900&h=500&fit=crop"
+    },
+    "navfirstlink": "repurpose robust users",
+    "navsecondlink": "optimize frictionless technologies",
+    "navthirdlink": "evolve innovative eyeballs",
+    "navfourthlink": "mesh synergistic applications",
+    "navfifthlink": "utilize efficient web services",
+    "logotext": "extend plug-and-play systems",
+    "navbuttontext": "engage strategic web-readiness",
+    "headerLogoText": [
+      {
+        "type": "paragraph",
+        "text": "Velit veniam ipsum tempor qui qui.",
+        "spans": []
+      }
+    ]
+  }
+}

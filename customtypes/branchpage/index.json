@@ -1,0 +1,139 @@
+{
+  "id": "branchpage",
+  "label": "branchpage",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "image": {
+        "type": "Image",
+        "config": {
+          "label": "Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "titleOne": {
+        "type": "Text",
+        "config": {
+          "label": "Title One",
+          "placeholder": ""
+        }
+      },
+      "titleTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Title Two",
+          "placeholder": ""
+        }
+      },
+      "description": {
+        "type": "Text",
+        "config": {
+          "label": "Description",
+          "placeholder": ""
+        }
+      },
+      "imageTwo": {
+        "type": "Image",
+        "config": {
+          "label": "Image Two",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "Creative": {
+        "type": "Text",
+        "config": {
+          "label": "Creative",
+          "placeholder": ""
+        }
+      },
+      "CreativeDes": {
+        "type": "Text",
+        "config": {
+          "label": "Creative Des",
+          "placeholder": ""
+        }
+      },
+      "Brands": {
+        "type": "Text",
+        "config": {
+          "label": "Brands",
+          "placeholder": ""
+        }
+      },
+      "BrandsDes": {
+        "type": "Text",
+        "config": {
+          "label": "Brands Des",
+          "placeholder": ""
+        }
+      },
+      "Software": {
+        "type": "Text",
+        "config": {
+          "label": "Software",
+          "placeholder": ""
+        }
+      },
+      "SoftwareDes": {
+        "type": "Text",
+        "config": {
+          "label": "Software Des",
+          "placeholder": ""
+        }
+      },
+      "Web": {
+        "type": "Text",
+        "config": {
+          "label": "Web",
+          "placeholder": ""
+        }
+      },
+      "WebDes": {
+        "type": "Text",
+        "config": {
+          "label": "Web Des",
+          "placeholder": ""
+        }
+      },
+      "Mobile": {
+        "type": "Text",
+        "config": {
+          "label": "Mobile",
+          "placeholder": ""
+        }
+      },
+      "MobileDes": {
+        "type": "Text",
+        "config": {
+          "label": "Mobile Des",
+          "placeholder": ""
+        }
+      },
+      "UIUX": {
+        "type": "Text",
+        "config": {
+          "label": "UIUX",
+          "placeholder": ""
+        }
+      },
+      "UIUXDes": {
+        "type": "Text",
+        "config": {
+          "label": "UIUXDes",
+          "placeholder": ""
+        }
+      },
+      "UIImage": {
+        "type": "Image",
+        "config": {
+          "label": "UIImage",
+          "constraint": {},
+          "thumbnails": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "navbar",
+  "label": "Navbar",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "logo": {
+        "type": "Image",
+        "config": {
+          "label": "Logo",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "navfirstlink": {
+        "type": "Text",
+        "config": {
+          "label": "Navfirstlink",
+          "placeholder": ""
+        }
+      },
+      "navsecondlink": {
+        "type": "Text",
+        "config": {
+          "label": "Navsecondlink",
+          "placeholder": ""
+        }
+      },
+      "navthirdlink": {
+        "type": "Text",
+        "config": {
+          "label": "Navthirdlink",
+          "placeholder": ""
+        }
+      },
+      "navfourthlink": {
+        "type": "Text",
+        "config": {
+          "label": "Navfourthlink",
+          "placeholder": ""
+        }
+      },
+      "navfifthlink": {
+        "type": "Text",
+        "config": {
+          "label": "Navfifthlink",
+          "placeholder": ""
+        }
+      },
+      "logotext": {
+        "type": "Text",
+        "config": {
+          "label": "Logotext",
+          "placeholder": ""
+        }
+      },
+      "navbuttontext": {
+        "type": "Text",
+        "config": {
+          "label": "Navbuttontext",
+          "placeholder": ""
+        }
+      },
+      "headerLogoText": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Header Logo Text",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      }
+    }
+  }
+}

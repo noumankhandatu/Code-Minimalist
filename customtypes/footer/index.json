@@ -1,0 +1,83 @@
+{
+  "id": "footer",
+  "label": "Footer",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "footerlogo": {
+        "type": "Image",
+        "config": {
+          "label": "Footerlogo",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "logoText": {
+        "type": "Text",
+        "config": {
+          "label": "Logo Text",
+          "placeholder": ""
+        }
+      },
+      "work": {
+        "type": "Text",
+        "config": {
+          "label": "Work",
+          "placeholder": ""
+        }
+      },
+      "buttonText": {
+        "type": "Text",
+        "config": {
+          "label": "Button Text",
+          "placeholder": ""
+        }
+      },
+      "contactText": {
+        "type": "Text",
+        "config": {
+          "label": "Contact Text",
+          "placeholder": ""
+        }
+      },
+      "emailText": {
+        "type": "Text",
+        "config": {
+          "label": "Email Text",
+          "placeholder": ""
+        }
+      },
+      "phoneNumber": {
+        "type": "Text",
+        "config": {
+          "label": "Phone Number",
+          "placeholder": ""
+        }
+      },
+      "officeText": {
+        "type": "Text",
+        "config": {
+          "label": "Office Text",
+          "placeholder": ""
+        }
+      },
+      "copyWriteText": {
+        "type": "Text",
+        "config": {
+          "label": "Copy Write Text",
+          "placeholder": ""
+        }
+      },
+      "footerLogoText": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Footer Logo Text",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "id": "portfolio",
+  "label": "portfolio",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "portfolioTitle": {
+        "type": "Text",
+        "config": {
+          "label": "Portfolio Title",
+          "placeholder": ""
+        }
+      },
+      "portfolioDescription": {
+        "type": "Text",
+        "config": {
+          "label": "Portfolio Description",
+          "placeholder": ""
+        }
+      },
+      "firstLink": {
+        "type": "Text",
+        "config": {
+          "label": "First Link",
+          "placeholder": ""
+        }
+      },
+      "secondLink": {
+        "type": "Text",
+        "config": {
+          "label": "Second Link",
+          "placeholder": ""
+        }
+      },
+      "thirdLink": {
+        "type": "Text",
+        "config": {
+          "label": "Third Link",
+          "placeholder": ""
+        }
+      },
+      "fourthLink": {
+        "type": "Text",
+        "config": {
+          "label": "Fourth Link",
+          "placeholder": ""
+        }
+      },
+      "firstImage": {
+        "type": "Image",
+        "config": {
+          "label": "First Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "portfolioTitleOne": {
+        "type": "Text",
+        "config": {
+          "label": "Portfolio Title One",
+          "placeholder": ""
+        }
+      },
+      "portfolioSubTitleOne": {
+        "type": "Text",
+        "config": {
+          "label": "Portfolio Sub Title One",
+          "placeholder": ""
+        }
+      },
+      "portfolioButtonText": {
+        "type": "Text",
+        "config": {
+          "label": "Portfolio Button Text",
+          "placeholder": ""
+        }
+      },
+      "secondImage": {
+        "type": "Image",
+        "config": {
+          "label": "Second Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "portfolioTitleTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Portfolio Title Two",
+          "placeholder": ""
+        }
+      },
+      "portfolioSubTitleTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Portfolio Sub Title Two",
+          "placeholder": ""
+        }
+      },
+      "thirdImage": {
+        "type": "Image",
+        "config": {
+          "label": "Third Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "portfolioTitleThree": {
+        "type": "Text",
+        "config": {
+          "label": "Portfolio Title Three",
+          "placeholder": ""
+        }
+      },
+      "portfolioSubTitleThree": {
+        "type": "Text",
+        "config": {
+          "label": "Portfolio Sub Title Three",
+          "placeholder": ""
+        }
+      },
+      "fourthImage": {
+        "type": "Image",
+        "config": {
+          "label": "Fourth Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "portfolioTitleFourth": {
+        "type": "Text",
+        "config": {
+          "label": "Portfolio Title Fourth",
+          "placeholder": ""
+        }
+      },
+      "portfolioSubTitleFourth": {
+        "type": "Text",
+        "config": {
+          "label": "Portfolio Sub Title Fourth",
+          "placeholder": ""
+        }
+      },
+      "fifthImage": {
+        "type": "Image",
+        "config": {
+          "label": "Fifth Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "portfolioTitleFifth": {
+        "type": "Text",
+        "config": {
+          "label": "Portfolio Title Fifth",
+          "placeholder": ""
+        }
+      },
+      "portfolioSubTitleFifth": {
+        "type": "Text",
+        "config": {
+          "label": "Portfolio Sub Title Fifth",
+          "placeholder": ""
+        }
+      },
+      "sixthImage": {
+        "type": "Image",
+        "config": {
+          "label": "Sixth Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "portfolioTitleSixth": {
+        "type": "Text",
+        "config": {
+          "label": "Portfolio Title Sixth",
+          "placeholder": ""
+        }
+      },
+      "portfolioSubTitleSixth": {
+        "type": "Text",
+        "config": {
+          "label": "Portfolio Sub Title Sixth",
+          "placeholder": ""
+        }
+      }
+    }
+  }
+}

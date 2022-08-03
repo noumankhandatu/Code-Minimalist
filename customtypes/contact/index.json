@@ -1,0 +1,52 @@
+{
+  "id": "contact",
+  "label": "contact",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "contactTitle": {
+        "type": "Text",
+        "config": {
+          "label": "Contact Title",
+          "placeholder": ""
+        }
+      },
+      "name": {
+        "type": "Text",
+        "config": {
+          "label": "Name",
+          "placeholder": ""
+        }
+      },
+      "number": {
+        "type": "Text",
+        "config": {
+          "label": "Number",
+          "placeholder": ""
+        }
+      },
+      "email": {
+        "type": "Text",
+        "config": {
+          "label": "Email",
+          "placeholder": ""
+        }
+      },
+      "message": {
+        "type": "Text",
+        "config": {
+          "label": "Message",
+          "placeholder": ""
+        }
+      },
+      "buttonText": {
+        "type": "Text",
+        "config": {
+          "label": "Button Text",
+          "placeholder": ""
+        }
+      }
+    }
+  }
+}
