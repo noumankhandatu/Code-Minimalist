@@ -1,0 +1,31 @@
+{
+  "id": "9ae66449-ee2a-475f-9ccd-0d5b153950aa",
+  "uid": "occaecati-neque-id",
+  "type": "footer",
+  "data": {
+    "footerlogo": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa?w=900&h=500&fit=crop"
+    },
+    "logoText": "expedite synergistic methodologies",
+    "work": "facilitate ubiquitous markets",
+    "buttonText": "syndicate bricks-and-clicks web services",
+    "contactText": "architect best-of-breed web-readiness",
+    "emailText": "revolutionize rich infrastructures",
+    "phoneNumber": "harness user-centric metrics",
+    "officeText": "iterate robust schemas",
+    "copyWriteText": "integrate end-to-end vortals",
+    "footerLogoText": [
+      {
+        "type": "paragraph",
+        "text": "Anim ipsum pariatur commodo tempor adipisicing sunt non dolor irure. Cupidatat consectetur reprehenderit Lorem nisi culpa dolor amet deserunt adipisicing mollit do.",
+        "spans": []
+      }
+    ]
+  }
+}

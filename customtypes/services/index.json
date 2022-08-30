@@ -1,0 +1,639 @@
+{
+  "id": "services",
+  "label": "services",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "backgroundImage": {
+        "type": "Image",
+        "config": {
+          "label": "Background Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "title": {
+        "type": "Text",
+        "config": {
+          "label": "Title",
+          "placeholder": ""
+        }
+      },
+      "description": {
+        "type": "Text",
+        "config": {
+          "label": "Description",
+          "placeholder": ""
+        }
+      },
+      "serviceTitleOne": {
+        "type": "Text",
+        "config": {
+          "label": "Service Title One",
+          "placeholder": ""
+        }
+      },
+      "serviceTitleTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Service Title Two",
+          "placeholder": ""
+        }
+      },
+      "serviceTitleThree": {
+        "type": "Text",
+        "config": {
+          "label": "Service Title Three",
+          "placeholder": ""
+        }
+      },
+      "ourservices": {
+        "type": "Text",
+        "config": {
+          "label": "Ourservices",
+          "placeholder": ""
+        }
+      },
+      "image": {
+        "type": "Image",
+        "config": {
+          "label": "Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "webdevelopment": {
+        "type": "Text",
+        "config": {
+          "label": "Webdevelopment",
+          "placeholder": ""
+        }
+      },
+      "IOS": {
+        "type": "Text",
+        "config": {
+          "label": "IOS",
+          "placeholder": ""
+        }
+      },
+      "Andriod": {
+        "type": "Text",
+        "config": {
+          "label": "Andriod",
+          "placeholder": ""
+        }
+      },
+      "crossPlateform": {
+        "type": "Text",
+        "config": {
+          "label": "Cross Plateform",
+          "placeholder": ""
+        }
+      },
+      "frontend": {
+        "type": "Text",
+        "config": {
+          "label": "Frontend",
+          "placeholder": ""
+        }
+      },
+      "backend": {
+        "type": "Text",
+        "config": {
+          "label": "Backend",
+          "placeholder": ""
+        }
+      },
+      "webDescription": {
+        "type": "Text",
+        "config": {
+          "label": "Web Description",
+          "placeholder": ""
+        }
+      },
+      "imageTwo": {
+        "type": "Image",
+        "config": {
+          "label": "Image Two",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "sectionTitleTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Section Title Two",
+          "placeholder": ""
+        }
+      },
+      "Product_Strategy": {
+        "type": "Text",
+        "config": {
+          "label": "Product Strategy",
+          "placeholder": ""
+        }
+      },
+      "Digital_Transformati": {
+        "type": "Text",
+        "config": {
+          "label": "Digital Transformati",
+          "placeholder": ""
+        }
+      },
+      "Legacy_App_Modernisation": {
+        "type": "Text",
+        "config": {
+          "label": "Legacy App Modernisation",
+          "placeholder": ""
+        }
+      },
+      "Research_and_Development": {
+        "type": "Text",
+        "config": {
+          "label": "Research And Development",
+          "placeholder": ""
+        }
+      },
+      "sectionTwoDescription": {
+        "type": "Text",
+        "config": {
+          "label": "Section Two Description",
+          "placeholder": ""
+        }
+      },
+      "imagethree": {
+        "type": "Image",
+        "config": {
+          "label": "Imagethree",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "ProductDesign": {
+        "type": "Text",
+        "config": {
+          "label": "Product Design",
+          "placeholder": ""
+        }
+      },
+      "UXdesign": {
+        "type": "Text",
+        "config": {
+          "label": "UXdesign",
+          "placeholder": ""
+        }
+      },
+      "UIdesign": {
+        "type": "Text",
+        "config": {
+          "label": "UIdesign",
+          "placeholder": ""
+        }
+      },
+      "ProductStrategy": {
+        "type": "Text",
+        "config": {
+          "label": "Product Strategy",
+          "placeholder": ""
+        }
+      },
+      "Workshops": {
+        "type": "Text",
+        "config": {
+          "label": "Workshops",
+          "placeholder": ""
+        }
+      },
+      "sectionthreedescription": {
+        "type": "Text",
+        "config": {
+          "label": "Sectionthreedescription",
+          "placeholder": ""
+        }
+      },
+      "sectionFourImage": {
+        "type": "Image",
+        "config": {
+          "label": "Section Four Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "sectioFourTitle": {
+        "type": "Text",
+        "config": {
+          "label": "Sectio Four Title",
+          "placeholder": ""
+        }
+      },
+      "Data_Science": {
+        "type": "Text",
+        "config": {
+          "label": "Data Science",
+          "placeholder": ""
+        }
+      },
+      "Machine_Learning": {
+        "type": "Text",
+        "config": {
+          "label": "Machine Learning",
+          "placeholder": ""
+        }
+      },
+      "Computer_Vision": {
+        "type": "Text",
+        "config": {
+          "label": "Computer Vision",
+          "placeholder": ""
+        }
+      },
+      "VoiceAssistantsChatbots": {
+        "type": "Text",
+        "config": {
+          "label": "Voice Assistants Chatbots",
+          "placeholder": ""
+        }
+      },
+      "SectionFourdescription": {
+        "type": "Text",
+        "config": {
+          "label": "Section Fourdescription",
+          "placeholder": ""
+        }
+      },
+      "imageFive": {
+        "type": "Image",
+        "config": {
+          "label": "Image Five",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "sectionFiveTitle": {
+        "type": "Text",
+        "config": {
+          "label": "Section Five Title",
+          "placeholder": ""
+        }
+      },
+      "CloudAppDevelopment": {
+        "type": "Text",
+        "config": {
+          "label": "Cloud App Development",
+          "placeholder": ""
+        }
+      },
+      "CloudDeployment": {
+        "type": "Text",
+        "config": {
+          "label": "Cloud Deployment",
+          "placeholder": ""
+        }
+      },
+      "AWSCloudDevelopment": {
+        "type": "Text",
+        "config": {
+          "label": "AWSCloud Development",
+          "placeholder": ""
+        }
+      },
+      "GoogleCloudDevelopment": {
+        "type": "Text",
+        "config": {
+          "label": "Google Cloud Development",
+          "placeholder": ""
+        }
+      },
+      "FiveDescription": {
+        "type": "Text",
+        "config": {
+          "label": "Five Description",
+          "placeholder": ""
+        }
+      },
+      "stickyTextOne": {
+        "type": "Text",
+        "config": {
+          "label": "Sticky Text One",
+          "placeholder": ""
+        }
+      },
+      "stickyTextTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Sticky Text Two",
+          "placeholder": ""
+        }
+      },
+      "stickyTextThree": {
+        "type": "Text",
+        "config": {
+          "label": "Sticky Text Three",
+          "placeholder": ""
+        }
+      },
+      "stickyTextFour": {
+        "type": "Text",
+        "config": {
+          "label": "Sticky Text Four",
+          "placeholder": ""
+        }
+      },
+      "stickyTextFive": {
+        "type": "Text",
+        "config": {
+          "label": "Sticky Text Five",
+          "placeholder": ""
+        }
+      },
+      "Tangible": {
+        "type": "Text",
+        "config": {
+          "label": "Tangible",
+          "placeholder": ""
+        }
+      },
+      "minTangle": {
+        "type": "Text",
+        "config": {
+          "label": "Min Tangle",
+          "placeholder": ""
+        }
+      },
+      "days": {
+        "type": "Text",
+        "config": {
+          "label": "Days",
+          "placeholder": ""
+        }
+      },
+      "weeks": {
+        "type": "Text",
+        "config": {
+          "label": "Weeks",
+          "placeholder": ""
+        }
+      },
+      "month": {
+        "type": "Text",
+        "config": {
+          "label": "Month",
+          "placeholder": ""
+        }
+      },
+      "estimate": {
+        "type": "Text",
+        "config": {
+          "label": "Estimate",
+          "placeholder": ""
+        }
+      },
+      "prototype": {
+        "type": "Text",
+        "config": {
+          "label": "Prototype",
+          "placeholder": ""
+        }
+      },
+      "MVP": {
+        "type": "Text",
+        "config": {
+          "label": "MVP",
+          "placeholder": ""
+        }
+      },
+      "verified": {
+        "type": "Text",
+        "config": {
+          "label": "Verified",
+          "placeholder": ""
+        }
+      },
+      "GetQuote": {
+        "type": "Text",
+        "config": {
+          "label": "Get Quote",
+          "placeholder": ""
+        }
+      },
+      "expertise": {
+        "type": "Text",
+        "config": {
+          "label": "Expertise",
+          "placeholder": ""
+        }
+      },
+      "Healthcare": {
+        "type": "Text",
+        "config": {
+          "label": "Healthcare",
+          "placeholder": ""
+        }
+      },
+      "commerce": {
+        "type": "Text",
+        "config": {
+          "label": "Commerce",
+          "placeholder": ""
+        }
+      },
+      "Entertainment": {
+        "type": "Text",
+        "config": {
+          "label": "Entertainment",
+          "placeholder": ""
+        }
+      },
+      "Finetech": {
+        "type": "Text",
+        "config": {
+          "label": "Finetech",
+          "placeholder": ""
+        }
+      },
+      "Others": {
+        "type": "Text",
+        "config": {
+          "label": "Others",
+          "placeholder": ""
+        }
+      },
+      "programming": {
+        "type": "Text",
+        "config": {
+          "label": "Programming",
+          "placeholder": ""
+        }
+      },
+      "expImage": {
+        "type": "Image",
+        "config": {
+          "label": "Exp Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "technology": {
+        "type": "Text",
+        "config": {
+          "label": "Technology",
+          "placeholder": ""
+        }
+      },
+      "quoteOne": {
+        "type": "Text",
+        "config": {
+          "label": "Quote One",
+          "placeholder": ""
+        }
+      },
+      "btnQuote": {
+        "type": "Text",
+        "config": {
+          "label": "Btn Quote",
+          "placeholder": ""
+        }
+      },
+      "AndriodImage": {
+        "type": "Image",
+        "config": {
+          "label": "Andriod Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "AndriodText": {
+        "type": "Text",
+        "config": {
+          "label": "Andriod Text",
+          "placeholder": ""
+        }
+      },
+      "AndriodDes": {
+        "type": "Text",
+        "config": {
+          "label": "Andriod Des",
+          "placeholder": ""
+        }
+      },
+      "ISOImage": {
+        "type": "Image",
+        "config": {
+          "label": "ISOImage",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "IOStext": {
+        "type": "Text",
+        "config": {
+          "label": "IOStext",
+          "placeholder": ""
+        }
+      },
+      "IOSdes": {
+        "type": "Text",
+        "config": {
+          "label": "IOSdes",
+          "placeholder": ""
+        }
+      },
+      "CrossImage": {
+        "type": "Image",
+        "config": {
+          "label": "Cross Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "CrossText": {
+        "type": "Text",
+        "config": {
+          "label": "Cross Text",
+          "placeholder": ""
+        }
+      },
+      "CrossDes": {
+        "type": "Text",
+        "config": {
+          "label": "Cross Des",
+          "placeholder": ""
+        }
+      },
+      "FrontEndImage": {
+        "type": "Image",
+        "config": {
+          "label": "Front End Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "FrontendText": {
+        "type": "Text",
+        "config": {
+          "label": "Frontend Text",
+          "placeholder": ""
+        }
+      },
+      "FrontEndDes": {
+        "type": "Text",
+        "config": {
+          "label": "Front End Des",
+          "placeholder": ""
+        }
+      },
+      "BackendImage": {
+        "type": "Image",
+        "config": {
+          "label": "Backend Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "BackendTex": {
+        "type": "Text",
+        "config": {
+          "label": "Backend Tex",
+          "placeholder": ""
+        }
+      },
+      "BackendDes": {
+        "type": "Text",
+        "config": {
+          "label": "Backend Des",
+          "placeholder": ""
+        }
+      },
+      "AIImage": {
+        "type": "Image",
+        "config": {
+          "label": "AIImage",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "AIText": {
+        "type": "Text",
+        "config": {
+          "label": "AIText",
+          "placeholder": ""
+        }
+      },
+      "AIDes": {
+        "type": "Text",
+        "config": {
+          "label": "AIDes",
+          "placeholder": ""
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {}
+        }
+      }
+    }
+  }
+}

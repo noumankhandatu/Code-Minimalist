@@ -1,0 +1,77 @@
+{
+  "_cts": {
+    "home": {
+      "testimonialFirstName": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      },
+      "testimonialFirstPlace": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      },
+      "testimonialSecondName": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      },
+      "bannerFirstText": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      },
+      "bannerSecondText": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      },
+      "bannerThirdText": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      },
+      "bannerFourthText": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      },
+      "bannerFifthText": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    },
+    "navbar": {},
+    "footer": {},
+    "portfolio": {},
+    "contact": {},
+    "branch": {},
+    "valueandpurpose": {},
+    "aboutninja": {},
+    "services": {},
+    "branchpage": {}
+  },
+  "slices": {
+    "TestimonialsClients": {
+      "default": {
+        "primary": {
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    }
+  }
+}

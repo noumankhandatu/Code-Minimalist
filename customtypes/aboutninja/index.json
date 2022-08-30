@@ -1,0 +1,446 @@
+{
+  "id": "aboutninja",
+  "label": "aboutninja",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "backgroundimage": {
+        "type": "Image",
+        "config": {
+          "label": "Backgroundimage",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "title": {
+        "type": "Text",
+        "config": {
+          "label": "Title",
+          "placeholder": ""
+        }
+      },
+      "titlejoin": {
+        "type": "Text",
+        "config": {
+          "label": "Titlejoin",
+          "placeholder": ""
+        }
+      },
+      "description": {
+        "type": "Text",
+        "config": {
+          "label": "Description",
+          "placeholder": ""
+        }
+      },
+      "image": {
+        "type": "Image",
+        "config": {
+          "label": "Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "titleone": {
+        "type": "Text",
+        "config": {
+          "label": "Titleone",
+          "placeholder": ""
+        }
+      },
+      "descriptionone": {
+        "type": "Text",
+        "config": {
+          "label": "Descriptionone",
+          "placeholder": ""
+        }
+      },
+      "smallCardOne": {
+        "type": "Text",
+        "config": {
+          "label": "Small Card One",
+          "placeholder": ""
+        }
+      },
+      "smallCardDesOne": {
+        "type": "Text",
+        "config": {
+          "label": "Small Card Des One",
+          "placeholder": ""
+        }
+      },
+      "smallCardTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Small Card Two",
+          "placeholder": ""
+        }
+      },
+      "smallCardDesTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Small Card Des Two",
+          "placeholder": ""
+        }
+      },
+      "smallCardThree": {
+        "type": "Text",
+        "config": {
+          "label": "Small Card Three",
+          "placeholder": ""
+        }
+      },
+      "smallCardDesThree": {
+        "type": "Text",
+        "config": {
+          "label": "Small Card Des Three",
+          "placeholder": ""
+        }
+      },
+      "ninjatextone": {
+        "type": "Text",
+        "config": {
+          "label": "Ninjatextone",
+          "placeholder": ""
+        }
+      },
+      "ninjatexttwo": {
+        "type": "Text",
+        "config": {
+          "label": "Ninjatexttwo",
+          "placeholder": ""
+        }
+      },
+      "ninjatextthree": {
+        "type": "Text",
+        "config": {
+          "label": "Ninjatextthree",
+          "placeholder": ""
+        }
+      },
+      "cardImageOne": {
+        "type": "Image",
+        "config": {
+          "label": "Card Image One",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "cardTitleOne": {
+        "type": "Text",
+        "config": {
+          "label": "Card Title One",
+          "placeholder": ""
+        }
+      },
+      "cardDescriptionOne": {
+        "type": "Text",
+        "config": {
+          "label": "Card Description One",
+          "placeholder": ""
+        }
+      },
+      "cardImageTwo": {
+        "type": "Image",
+        "config": {
+          "label": "Card Image Two",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "cardTitleTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Card Title Two",
+          "placeholder": ""
+        }
+      },
+      "cardDescriptionTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Card Description Two",
+          "placeholder": ""
+        }
+      },
+      "cardImageThree": {
+        "type": "Image",
+        "config": {
+          "label": "Card Image Three",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "cardTitleThree": {
+        "type": "Text",
+        "config": {
+          "label": "Card Title Three",
+          "placeholder": ""
+        }
+      },
+      "cardDescriptionThree": {
+        "type": "Text",
+        "config": {
+          "label": "Card Description Three",
+          "placeholder": ""
+        }
+      },
+      "ninjatextfour": {
+        "type": "Text",
+        "config": {
+          "label": "Ninjatextfour",
+          "placeholder": ""
+        }
+      },
+      "ninjatextfive": {
+        "type": "Text",
+        "config": {
+          "label": "Ninjatextfive",
+          "placeholder": ""
+        }
+      },
+      "ninjaImageTwo": {
+        "type": "Image",
+        "config": {
+          "label": "Ninja Image Two",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "miniImageOne": {
+        "type": "Image",
+        "config": {
+          "label": "Mini Image One",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "miniTextOne": {
+        "type": "Text",
+        "config": {
+          "label": "Mini Text One",
+          "placeholder": ""
+        }
+      },
+      "miniDescriptionOne": {
+        "type": "Text",
+        "config": {
+          "label": "Mini Description One",
+          "placeholder": ""
+        }
+      },
+      "miniImageTwo": {
+        "type": "Image",
+        "config": {
+          "label": "Mini Image Two",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "miniTextTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Mini Text Two",
+          "placeholder": ""
+        }
+      },
+      "miniDescriptionTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Mini Description Two",
+          "placeholder": ""
+        }
+      },
+      "miniImageThree": {
+        "type": "Image",
+        "config": {
+          "label": "Mini Image Three",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "miniTextThree": {
+        "type": "Text",
+        "config": {
+          "label": "Mini Text Three",
+          "placeholder": ""
+        }
+      },
+      "miniDescriptionThree": {
+        "type": "Text",
+        "config": {
+          "label": "Mini Description Three",
+          "placeholder": ""
+        }
+      },
+      "ninjatextsix": {
+        "type": "Text",
+        "config": {
+          "label": "Ninjatextsix",
+          "placeholder": ""
+        }
+      },
+      "ninjatextseven": {
+        "type": "Text",
+        "config": {
+          "label": "Ninjatextseven",
+          "placeholder": ""
+        }
+      },
+      "DigitCardTitleOne": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Title One",
+          "placeholder": ""
+        }
+      },
+      "DigitCardDesOne": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Des One",
+          "placeholder": ""
+        }
+      },
+      "DigitCardDigitOne": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Digit One",
+          "placeholder": ""
+        }
+      },
+      "DigitCardTitleTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Title Two",
+          "placeholder": ""
+        }
+      },
+      "DigitCardDesTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Des Two",
+          "placeholder": ""
+        }
+      },
+      "DigitCardDigitTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Digit Two",
+          "placeholder": ""
+        }
+      },
+      "DigitCardTitleThree": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Title Three",
+          "placeholder": ""
+        }
+      },
+      "DigitCardDesThree": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Des Three",
+          "placeholder": ""
+        }
+      },
+      "DigitCardDigitThree": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Digit Three",
+          "placeholder": ""
+        }
+      },
+      "DigitCardTitleFour": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Title Four",
+          "placeholder": ""
+        }
+      },
+      "DigitCardDesFour": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Des Four",
+          "placeholder": ""
+        }
+      },
+      "DigitCardDigitFour": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Digit Four",
+          "placeholder": ""
+        }
+      },
+      "DigitCardTitleFive": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Title Five",
+          "placeholder": ""
+        }
+      },
+      "DigitCardDesFive": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Des Five",
+          "placeholder": ""
+        }
+      },
+      "DigitCardDigitFive": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Digit Five",
+          "placeholder": ""
+        }
+      },
+      "DigitCardTitleSix": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Title Six",
+          "placeholder": ""
+        }
+      },
+      "DigitCardDesSix": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Des Six",
+          "placeholder": ""
+        }
+      },
+      "DigitCardDigitSix": {
+        "type": "Text",
+        "config": {
+          "label": "Digit Card Digit Six",
+          "placeholder": ""
+        }
+      },
+      "bannerTitle": {
+        "type": "Text",
+        "config": {
+          "label": "Banner Title",
+          "placeholder": ""
+        }
+      },
+      "bannerText": {
+        "type": "Text",
+        "config": {
+          "label": "Banner Text",
+          "placeholder": ""
+        }
+      },
+      "bannerBtn": {
+        "type": "Text",
+        "config": {
+          "label": "Banner Btn",
+          "placeholder": ""
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {}
+        }
+      }
+    }
+  }
+}

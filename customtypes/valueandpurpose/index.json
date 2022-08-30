@@ -1,0 +1,305 @@
+{
+  "id": "valueandpurpose",
+  "label": "valueandpurpose",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "title": {
+        "type": "Text",
+        "config": {
+          "label": "Title",
+          "placeholder": ""
+        }
+      },
+      "desc": {
+        "type": "Text",
+        "config": {
+          "label": "Desc",
+          "placeholder": ""
+        }
+      },
+      "backgroundimage": {
+        "type": "Image",
+        "config": {
+          "label": "Backgroundimage",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "textone": {
+        "type": "Text",
+        "config": {
+          "label": "Textone",
+          "placeholder": ""
+        }
+      },
+      "bannerTitleOne": {
+        "type": "Text",
+        "config": {
+          "label": "Banner Title One",
+          "placeholder": ""
+        }
+      },
+      "bannerImageone": {
+        "type": "Image",
+        "config": {
+          "label": "Banner Imageone",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "bannerTitleTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Banner Title Two",
+          "placeholder": ""
+        }
+      },
+      "bannerImageTwo": {
+        "type": "Image",
+        "config": {
+          "label": "Banner Image Two",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "bannerTitleThree": {
+        "type": "Text",
+        "config": {
+          "label": "Banner Title Three",
+          "placeholder": ""
+        }
+      },
+      "bannerImageThree": {
+        "type": "Image",
+        "config": {
+          "label": "Banner Image Three",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "bannerTitleFour": {
+        "type": "Text",
+        "config": {
+          "label": "Banner Title Four",
+          "placeholder": ""
+        }
+      },
+      "bannerImageFour": {
+        "type": "Image",
+        "config": {
+          "label": "Banner Image Four",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "bannerTitleFive": {
+        "type": "Text",
+        "config": {
+          "label": "Banner Title Five",
+          "placeholder": ""
+        }
+      },
+      "bannerImageFive": {
+        "type": "Image",
+        "config": {
+          "label": "Banner Image Five",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "bannerTitleSix": {
+        "type": "Text",
+        "config": {
+          "label": "Banner Title Six",
+          "placeholder": ""
+        }
+      },
+      "bannerImageSix": {
+        "type": "Image",
+        "config": {
+          "label": "Banner Image Six",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "bannerTitleSeven": {
+        "type": "Text",
+        "config": {
+          "label": "Banner Title Seven",
+          "placeholder": ""
+        }
+      },
+      "bannerImageSeven": {
+        "type": "Image",
+        "config": {
+          "label": "Banner Image Seven",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "cardTitleOne": {
+        "type": "Text",
+        "config": {
+          "label": "Card Title One",
+          "placeholder": ""
+        }
+      },
+      "cardDescriptionOne": {
+        "type": "Text",
+        "config": {
+          "label": "Card Description One",
+          "placeholder": ""
+        }
+      },
+      "cardImageOne": {
+        "type": "Image",
+        "config": {
+          "label": "Card Image One",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "cardTitleTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Card Title Two",
+          "placeholder": ""
+        }
+      },
+      "cardDescriptionTwo": {
+        "type": "Text",
+        "config": {
+          "label": "Card Description Two",
+          "placeholder": ""
+        }
+      },
+      "cardImageTwo": {
+        "type": "Image",
+        "config": {
+          "label": "Card Image Two",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "cardTitleThree": {
+        "type": "Text",
+        "config": {
+          "label": "Card Title Three",
+          "placeholder": ""
+        }
+      },
+      "cardDescriptionThree": {
+        "type": "Text",
+        "config": {
+          "label": "Card Description Three",
+          "placeholder": ""
+        }
+      },
+      "cardImageThree": {
+        "type": "Image",
+        "config": {
+          "label": "Card Image Three",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "cardTitleFour": {
+        "type": "Text",
+        "config": {
+          "label": "Card Title Four",
+          "placeholder": ""
+        }
+      },
+      "cardDescriptionFour": {
+        "type": "Text",
+        "config": {
+          "label": "Card Description Four",
+          "placeholder": ""
+        }
+      },
+      "cardImageFour": {
+        "type": "Image",
+        "config": {
+          "label": "Card Image Four",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "cardTitleFive": {
+        "type": "Text",
+        "config": {
+          "label": "Card Title Five",
+          "placeholder": ""
+        }
+      },
+      "cardDescriptionFive": {
+        "type": "Text",
+        "config": {
+          "label": "Card Description Five",
+          "placeholder": ""
+        }
+      },
+      "cardImageFive": {
+        "type": "Image",
+        "config": {
+          "label": "Card Image Five",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "cardTitleSix": {
+        "type": "Text",
+        "config": {
+          "label": "Card Title Six",
+          "placeholder": ""
+        }
+      },
+      "cardDescriptionSix": {
+        "type": "Text",
+        "config": {
+          "label": "Card Description Six",
+          "placeholder": ""
+        }
+      },
+      "cardImageSix": {
+        "type": "Image",
+        "config": {
+          "label": "Card Image Six",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "cardTitleSeven": {
+        "type": "Text",
+        "config": {
+          "label": "Card Title Seven",
+          "placeholder": ""
+        }
+      },
+      "cardDescriptionSeven": {
+        "type": "Text",
+        "config": {
+          "label": "Card Description Seven",
+          "placeholder": ""
+        }
+      },
+      "cardImageSeven": {
+        "type": "Image",
+        "config": {
+          "label": "Card Image Seven",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {}
+        }
+      }
+    }
+  }
+}

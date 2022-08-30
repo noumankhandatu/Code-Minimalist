@@ -1,0 +1,80 @@
+{
+  "id": "ebabf727-7698-4253-91b1-d9dfdc2043ea",
+  "uid": "et-iusto-ea",
+  "type": "portfolio",
+  "data": {
+    "portfolioTitle": "scale visionary initiatives",
+    "portfolioDescription": "leverage web-enabled models",
+    "firstLink": "innovate cross-media experiences",
+    "secondLink": "repurpose interactive platforms",
+    "thirdLink": "repurpose scalable technologies",
+    "fourthLink": "incentivize ubiquitous channels",
+    "firstImage": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab?w=900&h=500&fit=crop"
+    },
+    "portfolioTitleOne": "deliver 24/365 deliverables",
+    "portfolioSubTitleOne": "matrix holistic networks",
+    "portfolioButtonText": "enhance viral e-services",
+    "secondImage": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869?w=900&h=500&fit=crop"
+    },
+    "portfolioTitleTwo": "exploit integrated functionalities",
+    "portfolioSubTitleTwo": "implement plug-and-play web services",
+    "thirdImage": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da?w=900&h=500&fit=crop"
+    },
+    "portfolioTitleThree": "grow visionary communities",
+    "portfolioSubTitleThree": "optimize synergistic technologies",
+    "fourthImage": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=900&h=500&fit=crop"
+    },
+    "portfolioTitleFourth": "harness real-time e-commerce",
+    "portfolioSubTitleFourth": "disintermediate extensible blockchains",
+    "fifthImage": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1589652717521-10c0d092dea9?w=900&h=500&fit=crop"
+    },
+    "portfolioTitleFifth": "implement dynamic content",
+    "portfolioSubTitleFifth": "scale distributed experiences",
+    "sixthImage": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?w=900&h=500&fit=crop"
+    },
+    "portfolioTitleSixth": "recontextualize bleeding-edge convergence",
+    "portfolioSubTitleSixth": "extend extensible portals"
+  }
+}
